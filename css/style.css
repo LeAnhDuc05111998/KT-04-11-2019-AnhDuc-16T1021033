@@ -1,0 +1,16 @@
+.avt{
+	height: 100px;
+}
+
+.btn-right{
+	float: right;
+	margin-bottom: 10px;
+}
+
+.btn-warning {
+	color: white;
+}
+
+.btn-warning:hover {
+	color: white;
+}
